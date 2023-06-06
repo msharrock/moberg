@@ -1,0 +1,5 @@
+numpy
+webcolors
+matplotlib
+h5py
+Moberg-Analytics-HDF5
